@@ -1,0 +1,26 @@
+{
+  "name": "express-api",
+  "version": "0.0.1",
+  "description": "express-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "random-text-faces": "^1.0.9"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/mstarda/express-api"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "text-face"
+  ]
+}
